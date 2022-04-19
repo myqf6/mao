@@ -2,7 +2,7 @@
 
 【拉库】
 
-    ql repo https://github.com/Yiov/wool.git "" "COOKIE"
+    ql repo https://github.com/myqf6/mao.git "" "COOKIE"
 
 
 ## :loudspeaker: 关于小号

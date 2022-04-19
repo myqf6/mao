@@ -31,7 +31,7 @@
 
 使用中仍会遇到些小的问题，请有疑问的同学在电报上问我吧，尽力帮你们答疑
 
-个人TG账号：[@yiovl](https://t.me/yiovl)
+个人TG账号：[@myqf6](https://t.me/myqf6)
 
 TG不能私聊的，善用百度[电报+86不能私聊](https://www.jianshu.com/p/db274b58967f)
 
